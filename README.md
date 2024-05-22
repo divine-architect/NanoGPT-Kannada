@@ -7,7 +7,7 @@ Turns out ASCII/non-ASCII doesn't matter since the next letter in the sequence i
 If I were to put in a bunch of random numbers in a certain sequence, said sequence can be observed in the output as well.
 
 ## What next?
-Well, I plan on making a tiny dataset like [tiny shakespeare]() for Kannada called TinyBasavanna [[learn more about Basavanna here]()] to generate "Vachanas", synonomous to Shakespeare's sonnets but with spiritual content.
+Well, I plan on making a tiny dataset like [tiny shakespeare](https://raw.githubusercontent.com/karpathy/char-rnn/master/data/tinyshakespeare/input.txt) for Kannada called TinyBasavanna [[learn more about Basavanna here](https://en.wikipedia.org/wiki/Basava)] to generate "Vachanas", synonomous to Shakespeare's sonnets but with spiritual content.
 Next I'd like to try and build a Q&A model with this and maybe move out of the boundaries set by nanoGPT with a native model written from scratch and not GPT-2 based.
 
 ## Misc info

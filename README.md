@@ -14,7 +14,7 @@ Next I'd like to try and build a Q&A model with this and maybe move out of the b
 - Iterations trained on: ~1500
 - NVIDIA GPU - CUDA
 
-Dataset: https://www.kaggle.com/datasets/disisbig/kannada-news-dataset?select=valid.csv
+Dataset: https://www.kaggle.com/datasets/disisbig/kannada-news-dataset?select=valid.csv \
 nanoGPT: https://github.com/karpathy/nanoGPT
 
 ## License
